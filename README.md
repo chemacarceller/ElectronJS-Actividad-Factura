@@ -12,4 +12,4 @@ Fase 04 -> ejercicio de la Fase 2 pero sustituyendo la persistencia de datos en 
 
 Fase 05 -> ejercicio de la Fase 4 implementado con framework Vue.js
 
-Fase 06 -> ejercicio de la Fase 4 añadiendo un API de acceso a datos en un servidor express (proyecto parte cliente / parte servidora), dos versiones versión MySQLy versión MongoDB
+Fase 06 -> ejercicio de la Fase 4 añadiendo un API de acceso a datos en un servidor express (proyecto parte cliente / parte servidora)
