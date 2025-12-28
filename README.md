@@ -15,7 +15,7 @@ Phase 5 -> Exercise from Phase 4 (single version) implemented with the Vue.js fr
 Phase 6 -> Phase 4 exercise (single version) adding a data access API to an Express server (client-side project: desktop application / server-side project: provides a data access API). This means setting up an Express server in a virtual machine or container that provides an API to access data from different databases (MySQL and MongoDB) installed in the same virtual machine or container as Express. The application accesses the API using the Fetch API.
 
 
-===================================================================================================================================
+===============================================================================================================
 
 
 Desarrollo por fases de una actividad de gestión de facturas (aplicación en español).<br />
