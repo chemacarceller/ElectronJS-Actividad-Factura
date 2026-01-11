@@ -1,6 +1,10 @@
 # ElectronJS-Actividad-Factura
 
-Phased development of an invoice management application (UI in spanish).<br />
+Phased development of an invoice management application (UI in spanish).
+
+It is developed in phases, and each phase can have more than one version.
+
+It would serve as an exercise to demonstrate how to develop it step by step using ElectronJS.
 
 Phase 1 -> without data persistence (multiple versions) using OOP (UI design testing)<br />
 
@@ -17,8 +21,11 @@ Phase 6 -> Phase 4 exercise (single version) adding a data access API to an Expr
 
 ======================================================================================
 
+Desarrollo por fases de una actividad de clase de gestión de facturas (aplicación en español)
 
-Desarrollo por fases de una actividad de gestión de facturas (aplicación en español).<br />
+Se desarrolla por fases y en cada fase puede haber más de una versión
+
+Serviria como ejercicio para la demostración de cómo se desarrolla paso a paso utilizando ElectronJS
 
 Fase 01 -> sin persistencia de datos (varias versiones) con POO (pruebas de diseño UI) <br />
 
