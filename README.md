@@ -1,6 +1,6 @@
 # ElectronJS-Actividad-Factura
 
-Phased development of an invoice management application (Spanish version).<br />
+Phased development of an invoice management application (UI in spanish).<br />
 
 Phase 1 -> without data persistence (multiple versions) using OOP (UI design testing)<br />
 
